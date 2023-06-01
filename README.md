@@ -1,4 +1,4 @@
-# Aula sobre Spring Boot:
+# Aula sobre Spring Boot na Trybe:
 
 # Criação de um pequeno projeto para mostrar a data e hora atual, em um formato específico.
 
